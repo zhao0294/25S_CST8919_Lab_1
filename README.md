@@ -30,16 +30,16 @@ The IdP is responsible for:
 - Verifying credentials
 - Returning identity information to the app (like name, email, etc.)
 
-### Service Provider (SP)
+### Service Provider (SP) / Relying Party (RP)
 
-A **Service Provider (SP)** is the application or service that the user is trying to access — in this case, **your Flask web app**.
+A **Service Provider (SP)** or **Relying Party (RP)** is the application or service that the user is trying to access — in this case, **your Flask web app**.
 
 The SP:
 - Redirects users to the IdP (Auth0) for login
 - Receives authentication tokens from the IdP
 - Grants or denies access based on login status
 
-In this lab, **your Flask app is the Service Provider** and **Auth0 acts as the Identity Provider**.
+In this lab, **your Flask app is the Service Provider** and **Auth0 acts as the Identity Provider / Relying Party (RP)**.
 
 ---
 
@@ -81,7 +81,7 @@ Include a `README.md` with:
 
 Submit your **GitHub repository link** via Brightspace.
 
-**Deadline**: Wednesday, 21 May 2025
+**Deadline**: Wednesday, 28 May 2025
 
 ---
 
