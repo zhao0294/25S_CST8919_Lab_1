@@ -28,7 +28,7 @@ flask-auth0-app/
 
 ```bash
 
-git clone [ramymohamed10/25S_CST8919_Lab_1](https://github.com/ramymohamed10/25S_CST8919_Lab_1)
+git clone https://github.com/ramymohamed10/25S_CST8919_Lab_1
 cd 25S_CST8919_Lab_1/flask-auth0-app
 
 ```
