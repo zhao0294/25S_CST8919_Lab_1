@@ -118,7 +118,7 @@ Then visit http://localhost:3000 in your browser.
 
 ## Demo Video
 
-[Watch on YouTube](https://youtube.com/your-demo-link)
+[Watch on YouTube](https://youtu.be/mzMyZ7aUOh8)
 
 This video shows:
 
