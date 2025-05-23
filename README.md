@@ -135,6 +135,6 @@ This video shows:
 
 ## Submission
 
-- GitHub repo: https://github.com/your-username/25S_CST8919_Lab_1
+- GitHub repo: https://github.com/zhao0294/25S_CST8919_Lab_1
 - Demo video: Linked above
 - All features have been tested and verified
