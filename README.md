@@ -13,7 +13,6 @@ This is a simple Flask web application that implements secure user authenticatio
 
 <pre>
 
-```
 flask-auth0-app/
 ├── server.py
 ├── .env
@@ -21,7 +20,6 @@ flask-auth0-app/
 └── templates/
     ├── home.html
     └── protected.html
-```
 </pre>
 
 ## How to Run Locally
